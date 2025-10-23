@@ -24,7 +24,7 @@ repository               : "brentoncarroll/brentoncarroll.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Your Sidebar Name"
+  name             : "About Me"
   pronouns         : # example: "she/her"  
   bio              : "I am an undergraduate at the University of Maryland Baltimore County studying Environmental Science and Geography."
   location         : "Catonsville, MD"
