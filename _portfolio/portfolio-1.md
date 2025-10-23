@@ -1,6 +1,6 @@
 ---
 title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "This is a map I made in Rstudio depicting the poverty rate by census tract in Maryland 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
