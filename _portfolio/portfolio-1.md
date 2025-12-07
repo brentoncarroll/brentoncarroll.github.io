@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "This is a map I made in Rstudio depicting the poverty rate by census tract in Maryland 1<br/><img src='/images/500x300.png'>"
+title: "Example 1"
+excerpt: "This is a map I made in Rstudio depicting the poverty rate by census tract in Maryland. It uses data from ACS 5 year estimates between 2018 and 2022. <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
